@@ -338,3 +338,59 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Assets/2D Objects
+/Assets/3D Objects
+/Assets/3D Objects (REVAMP)
+/Assets/Audio
+/Assets/Editor/Resources
+/Assets/ExternalTools/MeshCombiner
+/Assets/ExternalTools/TextMesh Pro
+/Assets/ExternalTools/Virtual Joystick Pack/Prefabs
+/Assets/ExternalTools/Virtual Joystick Pack
+/Assets/Keystore
+/Assets/Parse/Plugins
+/Assets/GooglePlayGames
+/Assets/PlayFabEditorExtensions/Editor
+/Assets/PlayFabSdk
+/Assets/PlayServicesResolver/Editor
+/Assets/Plugins
+/Assets/Prefabs
+/Assets/Resources
+/Assets/SampleScenes
+/Assets/Scenes
+/Assets/Shaders
+/Assets/Standard Assets
+/Assets/StreamingAssets
+/Assets/TEST_ParticleSystem_explosion
+/Assets/UnityAds
+/Assets/UserInterface
+/Assets/ForwardRenderer.asset
+/Assets/LWRP_MedQuality.asset
+/Assets/LWRP_LowQuality.asset
+/Assets/LWRP_HighQuality.asset
+/Assets/GPGSIds.cs
+/Assets/google-services.json
+/Temp
+/ProjectSettings
+/Library
+/UniRx.Examples.csproj
+/UniRx.csproj
+/UniRx.Async.Editor.csproj
+/UniRx.Async.csproj
+/PunDemos.DemoSlotcarEditor.csproj
+/PunDemos.DemoHubEditor.csproj
+/PhotonWebSocket.csproj
+/PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj
+/PhotonUnityNetworking.Utilities.Culling.Editor.csproj
+/PhotonUnityNetworking.Utilities.csproj
+/PhotonUnityNetworking.Editor.csproj
+/PhotonUnityNetworking.Demos.csproj
+/PhotonUnityNetworking.csproj
+/PhotonRealtime.csproj
+/PhotonChat.csproj
+/MavensTrip.sln
+/Maven's Trip.sln
+/Assembly-CSharp.csproj
+/Assembly-CSharp-firstpass.csproj
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp-Editor-firstpass.csproj
